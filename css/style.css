@@ -1,1 +1,10 @@
+/* I will use 나눔고딕 */
+@import url("https://fonts.googleapis.com/css?family=Nanum+Gothic:400,700,800&display=swap&subset=korean");
 @import "reset.css";
+@import "status-bar.css";
+body {
+  background-color: white;
+  padding: 10px 20px;
+  color: #020202;
+  font-family: "Nanum Gothic", sans-serif;
+}
